@@ -2,6 +2,7 @@
 #Purpose: To read a Web page that publishes the 40 best Crypto Accounts Twitter handles, Get them, Read their Twitter Statistics like 
 #Followers Count, How many they Follow, How many Tweets have they created, their Location and whether they are Verified or not
 #Learning purpose to learn Twitter API, Pandas Dataframe and BeautifulSoup usage
+#Source for learning: https://towardsdatascience.com/twitter-data-mining-measuring-users-influence-ef76c9badfc0
 
 #Import the required libraries
 import requests
